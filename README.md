@@ -10,7 +10,7 @@ N/A
 
 ## Usage
  
- In this guide you can review notes on each section as well if you open up delovoper commands on chrome you can get a recommendation on what to study first
+ In this guide you can review notes on each coding language and if you open up developer commands on chrome and head to the console you can get a recommendation on what to study first
 
 ## License
 
